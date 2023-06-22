@@ -1,5 +1,8 @@
 #include "main.h"
-
+/*
+ * Write a program that prints _putchar, followed by a new line. The program should return 0
+ * program writen by Enoyoze Charles
+ */
 int main(void)
 {
 	_putchar('_');
